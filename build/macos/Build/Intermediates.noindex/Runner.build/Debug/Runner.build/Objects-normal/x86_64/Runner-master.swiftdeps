@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "5007ceaf5c54f1de758a567168c67b935d0c0461a10d856a78b0ae5f9968ca17"
+build_start_time: [1682516608, 923564000]
+build_end_time: [1682516635, 162286000]
+inputs:
+  "/Users/mikeyong/AndroidStudioProjects/lab_asgm1/macos/Flutter/GeneratedPluginRegistrant.swift": [1682516568, 738307601]
+  "/Users/mikeyong/AndroidStudioProjects/lab_asgm1/macos/Runner/AppDelegate.swift": [1680713978, 0]
+  "/Users/mikeyong/AndroidStudioProjects/lab_asgm1/macos/Runner/MainFlutterWindow.swift": [1680713978, 0]
